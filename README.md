@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **DABS (Da Afghanistan Breshna Sherkat)**
 
-- 🌱 I’m currently learning **Python**
-
 - 🤝 I’m looking for help with **Flutter Projects**
 
 - 👨‍💻 All of my projects are available at [github.com/Khalid-Durrani-2024](github.com/Khalid-Durrani-2024)
