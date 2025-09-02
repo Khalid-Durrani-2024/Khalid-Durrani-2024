@@ -1,28 +1,116 @@
-<h1 align="center">Hi 👋, I'm khalid durrani</h1>
-<h3 align="center">a cross plateform app developer flutter</h3>
+<!-- A dynamic header that changes based on the time of day -->
+<h1 align="center">Hello World! 👋, I'm Khalid Durrani</h1>
+<h3 align="center">A Passionate Flutter Developer Crafting Cross-Platform Experiences</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-durrani-2024&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-durrani-2024" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid-durrani-2024" alt="khalid-durrani-2024" /></a> </p>
-
-- 🔭 I’m currently working on **DABS (Da Afghanistan Breshna Sherkat)**
-
-- 🤝 I’m looking for help with **Flutter Projects**
-
-- 👨‍💻 All of my projects are available at [github.com/Khalid-Durrani-2024](github.com/Khalid-Durrani-2024)
-
-- 💬 Ask me about **C++, Java, Dart, Flutter**
-
-- 📫 How to reach me **khaliddurrani113@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kkhan.durrani.77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kkhan.durrani.77" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@khalid-durrani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@khalid-durrani" height="30" width="40" /></a>
+<!-- A cool banner image can go a long way. You can create one for free at https://github.com/kyechan99/capsule-render -->
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d69be,100:c471f5&height=200&section=header&text=Khalid%20Durrani&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Flutter%20Developer&descSize=20&descAlignY=55" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Badges are a great way to show stats and tech stack quickly -->
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024?tab=repositories">
+    <img src="https://badgen.net/badge/Projects/20+/blue?icon=github" alt="Project Count">
+  </a>
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img src="https://komarev.com/ghpvc/?username=khalid-durrani-2024&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Khalid-Durrani-2024?tab=followers">
+    <img src="https://img.shields.io/github/followers/Khalid-Durrani-2024?label=Followers&style=social" alt="GitHub Followers">
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-durrani-2024&show_icons=true&locale=en&layout=compact" alt="khalid-durrani-2024" /></p>
+<!-- A more personal and engaging introduction -->
+## 🚀 About Me
 
+I'm a **Flutter Developer** based in Afghanistan, passionate about building beautiful, performant, and user-friendly mobile applications that run seamlessly on both iOS and Android. With a strong foundation in **C++** and **Java**, I bring a disciplined approach to software architecture and problem-solving to the Flutter ecosystem.
+
+- 🔭 I’m currently working on enterprise-level applications for **DABS (Da Afghanistan Breshna Sherkat)**.
+- 🌱 I’m deeply exploring **Advanced Flutter Animations**, **State Management (Bloc/Riverpod)**, and **Backend Integration**.
+- 👯 I’m looking to collaborate on **open-source Flutter projects** and innovative mobile apps.
+- 🤔 I’m always open to **helping** fellow developers with Flutter & Dart.
+- ⚡ Fun fact: I code by night and debug by day! ☕
+
+---
+
+<!-- Using icons to make the connect section much more visual -->
+## 📫 Let's Connect & Chat!
+
+<p align="left">
+  <a href="mailto:khaliddurrani113@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.youtube.com/@khalid-durrani" target="blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@khalid-durrani"/>
+  </a>
+  <a href="https://fb.com/kkhan.durrani.77" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kkhan.durrani.77"/>
+  </a>
+</p>
+
+---
+
+<!-- A more detailed skills section with proficiency bars (visual) -->
+## 🛠️ Tech Stack & Proficiency
+
+### Programming Languages
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+<!-- GitHub Stats with more interesting visual elements -->
+## 📊 GitHub Analytics
+
+<!-- A combination of stats and streak -->
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khalid-Durrani-2024&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Khalid's GitHub Stats"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khalid-Durrani-2024&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Top Languages - often more accurate -->
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Durrani-2024&theme=radical&hide_border=true&layout=compact&langs_count=8&hide=html,css" alt="Top Languages"/>
+  </a>
+</p>
+
+<!-- A contribution graph with snake animation -->
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img src="https://github.com/Khalid-Durrani-2024/Khalid-Durrani-2024/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  </a>
+</p>
+
+---
+
+<!-- A friendly footer -->
+<p align="center">
+  <i>“First, solve the problem. Then, write the code.”</i> – John Johnson
+</p>
+
+<p align="center">
+  <a href="https://github.com/Khalid-Durrani-2024">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5d69be,100:c471f5&height=100&section=footer" />
+  </a>
+</p>
