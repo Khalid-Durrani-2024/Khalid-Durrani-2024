@@ -99,20 +99,6 @@ I combine strong foundations in **C++**, **Java**, and **software architecture**
   </a>
 </p>
 
----
-
-## 📌 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/Khalid-Durrani-2024/YourTopFlutterProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalid-Durrani-2024&repo=YourTopFlutterProject&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Khalid-Durrani-2024/AnotherProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Khalid-Durrani-2024&repo=AnotherProject&theme=radical&hide_border=true" />
-  </a>
-</p>
-
----
 
 <!-- Footer with rotating quotes -->
 <p align="center">
